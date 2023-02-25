@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppIntent</string>
+    <string name="open_the_next_page">Open the Next Page</string>
+    <string name="item">Item</string>
+    <string name="kg">kg</string>
+    <string name="floatb">floatB</string>
+    <string name="new_task">new task</string>
+    <string name="save">Save</string>
+    <string name="quantity">Quantity</string>
+    <string name="this_is_item">this is item</string>
+    <string name="set_item">Set Item</string>
+    <string name="set_quantity">Set Quantity</string>
+    <string name="item2">Item</string>
+    <string name="wight">wight</string>
+</resources>
